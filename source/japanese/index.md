@@ -1,6 +1,5 @@
 ---
 title: 履歴書
-date: 2019-06-09 14:42:03
 ---
 
 ## 研究興味
@@ -24,4 +23,4 @@ Ueda, Y., <u>Tominaga, A.</u>, Kajimura, S., & Nomura, M. (2016). [Spontaneous e
 
 ## 日記・エッセイ
 - [滞在日記](https://note.com/atsukotominaga): 博士生活の日常など
-- [ハンガリー退屈日記](https://note.com/acukor): ハンガリーやヨーロッパの話など（[恵文社一乗寺店](http://www.keibunsha-store.com/)に寄稿）
+- [ハンガリー退屈日記](https://note.com/acukor): 中央ヨーロッパや旅行の話など（[恵文社一乗寺店](http://www.keibunsha-store.com/)に寄稿）
