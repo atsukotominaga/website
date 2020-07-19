@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mametsuko
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://atsukotominaga.com
+  * I am mametsuko (https://keybase.io/mametsuko) on keybase.
+  * I have a public key ASCDC_jlCWWi5qO_w3KPfFsGy1BsHqbpPD1BABKI9zDOhwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120830bf8e50965a2e6a3bfc3728f7c5b06cb506c1ea6e93c3d41001288f730ce870a",
+      "host": "keybase.io",
+      "kid": "0120830bf8e50965a2e6a3bfc3728f7c5b06cb506c1ea6e93c3d41001288f730ce870a",
+      "uid": "0aedfde5cbf6dddb36c60f1c7d1ce819",
+      "username": "mametsuko"
+    },
+    "merkle_root": {
+      "ctime": 1577968628,
+      "hash": "4258ba7a17f7d1e6392e3c766f4180489c3b1c81f9f65c7bd2420e330db104c5ab70579cf84fb30b090ce6ba9b54ffaecd9735b69118bae90cf5e034b30e37f1",
+      "hash_meta": "5756b363742c593279e21776c64c17b5f180dcd45979bcb97f4288b46f1376e4",
+      "seqno": 14052208
+    },
+    "service": {
+      "entropy": "wb9RLnIn8nFRGxF3Lzghr+Ec",
+      "hostname": "atsukotominaga.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1577968633,
+  "expire_in": 504576000,
+  "prev": "72aaf8371ae698aa070af6f1cd81c1680b1c7bc07074eaada6791ab2fbaa2242",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggwv45Qllouajv8Nyj3xbBstQbB6m6Tw9QQASiPcwzocKp3BheWxvYWTESpcCD8Qgcqr4NxrmmKoHCvbxzYHBaAsce8BwdOqtpnkasvuqIkLEIJK1TujeRGBywNAc9p1wLI/sfPi+LuYtRlI6triYDJJ7AgHCo3NpZ8RA9oLU79aFW8rnsPPbHnZULA+CxBnbGBnOgUcTK/Ijj6NGfEuFbL/s46HoY1aSxdqJ62vtV8848vE99/W4Tw4ECKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIKsFsA8I6AAjWIfFfIk75H0YXkqEHDKv2bCmFHAZSMfo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mametsuko
+
+==================================================================
