@@ -8,7 +8,7 @@ My research interests are in the field of interpersonal actions and decision-mak
 
 ## EDUCATION
 09/2017 – Present
-[**CENTRAL EUROPEAN UNIVERSITY, Hungary**](https://www.ceu.edu/)
+[**CENTRAL EUROPEAN UNIVERSITY, Hungary/Austria**](https://www.ceu.edu/)
 PhD student in Cognitive Science
 
 09/2016 – 08/2017
