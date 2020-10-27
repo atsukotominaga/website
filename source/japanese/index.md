@@ -7,7 +7,7 @@ title: 履歴書
 
 ## 学歴
 2017年9月 – 現在
-[**中央ヨーロッパ大学（ハンガリー）**](https://www.ceu.edu/)
+[**中央ヨーロッパ大学（オーストリア）**](https://www.ceu.edu/)
 博士学生：認知科学
 
 2016年9月 – 2017年8月
@@ -22,5 +22,5 @@ title: 履歴書
 Ueda, Y., <u>Tominaga, A.</u>, Kajimura, S., & Nomura, M. (2016). [Spontaneous eye blinks during creative task correlate with divergent processing.](https://doi.org/10.1007/s00426-015-0665-x) *Psychological research, 80(4)*, 652-659.
 
 ## 日記・エッセイ
-- [滞在日記](https://note.com/atsukotominaga): 博士生活の日常など
+- [滞洪日記](https://note.com/atsukotominaga): 博士生活の日常など
 - [ハンガリー退屈日記](https://note.com/acukor): 中央ヨーロッパや旅行の話など（[恵文社一乗寺店](http://www.keibunsha-store.com/)に寄稿）
