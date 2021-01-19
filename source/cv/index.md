@@ -4,7 +4,7 @@ date: 2019-02-16 10:42:29
 ---
 
 ## RESEARCH INTEREST
-My research interests are in the field of interpersonal actions and decision-making in social contexts. Specifically, I am investigating the role of joint action between experts and novices in musical skill transmission. The current experiment is focusing on how pianists modulate their sound for teaching purposes.
+My research interests are in the field of cultural transmission and social learning. I am investigating how learning from/with others has contributed to delivering cultural knowledge and skills to younger generations. I use an experimental method adapted from Cognitive Psychology and focus on the interaction between experts and novices in musical skill acquisition. I am currently working on how expert pianists modulate their performance to teach musical expressive techniques and how such modulations could be beneficial to novice learners.
 
 ## EDUCATION
 09/2017 – Present
