@@ -5,9 +5,12 @@ categories: news
 tags: conference
 ---
 
+# 博士の部にて優秀発表賞を受賞しました 🙈
+
  2021年3月6日（土）に行われる[Society for Tokyo Young Psychologists 東京若手心理学者の会](https://styp.wordpress.com/)でポスター発表します 🌵
 
- ポスター：準備中🌀
+ ポスター：[click me 😉](https://github.com/atsukotominaga/talk/blob/master/2021/STYP.pdf)
+
 
 発表抄録: **"The Sound of Teaching Music 〜熟達者による音楽表現伝達のための演奏変化〜"**
 
