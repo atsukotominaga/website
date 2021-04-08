@@ -1,12 +1,11 @@
 ---
-title: POSTPONED! Poster presentation - Neuromusic VII @ Aarhus
-date: 2020-04-01 17:50:37
+title: Poster presentation - Neuromusic VII @ Aarhus (Online)
+date: 2021-04-08 17:50:37
 categories: news
 tags: conference
 ---
-## [Neuromusic VII](https://www.fondazione-mariani.org/en/neuromusic7) has been postponed to the next year (2021) due to COVID-19.
 
-I am going to present results from my second experiment at [Neuromusic VII](https://www.fondazione-mariani.org/en/neuromusic7) from the 19th to the 22nd of June in Aarhus, Denmark 🌵
+I am going to present results from my second experiment at [Neuromusic VII](https://www.fondazione-mariani.org/en/neuromusic7) from the 18th to the 21st of June in Aarhus, Denmark (Online presentation) 🌵
 
 Accepted abstract: **"The Sound of Teaching Music: Experts’ sound modulation for novices"**
 
