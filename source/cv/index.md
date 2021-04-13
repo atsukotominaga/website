@@ -3,6 +3,8 @@ title: CV
 date: 2019-02-16 10:42:29
 ---
 
+[PDF 🐒](https://github.com/atsukotominaga/cv/blob/main/CV.pdf)
+
 ## RESEARCH INTEREST
 My research interests are in the field of cultural transmission and social learning. I am investigating how learning from/with others has contributed to delivering cultural knowledge and skills to younger generations. I use an experimental method adapted from Cognitive Psychology and focus on the interaction between experts and novices in musical skill acquisition. I am currently working on how expert pianists modulate their performance to teach musical expressive techniques and how such modulations could be beneficial to novice learners.
 
