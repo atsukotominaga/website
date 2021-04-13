@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="HandheldFriendly" content="True">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
     <meta property="og:type" content="website">
 <meta property="og:title" content="Atsuko Tominaga">
 <meta property="og:url" content="https://atsukotominaga/website/index.html">
@@ -39,13 +39,11 @@
 
     <!-- persian styles -->
     
-      
-<link rel="stylesheet" href="/css/rtl.css">
-
-    
     <!-- rss -->
     
     
+	<!-- mathjax -->
+	
 <meta name="generator" content="Hexo 4.2.1"></head>
 
 <body class="max-width mx-auto px3 ltr">
@@ -66,7 +64,7 @@
   <div id="nav">
     <ul>
       <li class="icon">
-        <a href="#"><i class="fas fa-bars fa-2x"></i></a>
+        <a href="#" aria-label="Menu"><i class="fas fa-bars fa-2x"></i></a>
       </li>
        
         <li><a href="/">Home</a></li>
@@ -76,15 +74,17 @@
         <li><a href="/categories/news">News</a></li>
        
         <li><a href="/japanese/">日本語</a></li>
+       
+        <li><a href="/categories/naplo">Napló</a></li>
       
     </ul>
   </div>
 </header>
 
         
-        <!-- <section id="header"></section>
-  <img src="https://atsukotominaga.com/uploads/yuyushiki.png", width="100%">
-</section> -->
+        <section id="header"></section>
+  <img src="https://atsukotominaga.com/uploads/sakura.jpg", width="100%">
+</section>
 
 <!-- <section id="conference">
   <span class="h1">SysMus 2019</span>
@@ -94,7 +94,7 @@
 <section id="about">
     <span class="h1">About</span>
   
-  I am a PhD student under the supervision of Natalie Sebanz and Günther Knoblich (SOMBY lab) at Central European University, Austria.
+  I am a PhD student under the supervision of Natalie Sebanz and Günther Knoblich (SOMBY lab) at Central European University, Hungary.
   
     <p>
       Find me on
@@ -102,32 +102,36 @@
       
       
         
-          <a class="icon" target="_blank" rel="noopener" href="https://github.com/atsukotominaga">
-            <i class="fab fa-github"></i><!--
-      ---></a><!--
-    ---><!--
-    --->   
+          <a class="icon" target="_blank" href="https://github.com/atsukotominaga">
+            <i class="fab fa-github"></i></a>
+              
         
       
         
-          <a class="icon" target="_blank" rel="noopener" href="mailto:Tominaga_Atsuko@phd.ceu.edu">
-            <i class="fas fa-envelope"></i><!--
-      ---></a>
-        <!--
-    --->
+          <a class="icon" target="_blank" href="https://www.instagram.com/mametsuko_/">
+            <i class="fab fa-instagram"></i></a>
+              
+        
+      
+        
+          <a class="icon" target="_blank" href="https://keybase.io/mametsuko">
+            <i class="fab fa-keybase"></i></a>
+               
+        
+      
+        
+          <a class="icon" target="_blank" href="mailto:Tominaga_Atsuko@phd.ceu.edu">
+            <i class="fas fa-envelope"></i></a>
+            
+            
         
       
     </p>
   
 </section>
 
-
 <section id="news">
   <span class="h1"><a href="/tags/conference">News</a></span>
-<!--
-  <section id="writing">
-  <span class="h1"><a href="/">Artikel</a></span>
--->
   
   <ul class="post-list">
     
@@ -226,7 +230,7 @@
     
       <li class="project-item">
         <a href="https://osf.io/8nbjh/" target="_blank" rel="noopener">The Sound of Teaching Music</a>: <p>The project investigates whether expert pianists are able to modulate their sound for teaching purposes.</p>
- <!-- project 1-->
+
       </li>
     
   </ul>
@@ -253,6 +257,8 @@
           <li><a href="/categories/news">News</a></li>
          
           <li><a href="/japanese/">日本語</a></li>
+         
+          <li><a href="/categories/naplo">Napló</a></li>
         
       </ul>
     </nav>
@@ -262,18 +268,17 @@
     </div>
     <!-- styles -->
 
-<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
 
 
-<link rel="stylesheet" href="/lib/justified-gallery/css/justifiedGallery.min.css">
+  <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" crossorigin="anonymous" onload="this.onload=null;this.rel='stylesheet'"/>
 
 
     <!-- jquery -->
+ 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script> 
 
-<script src="/lib/jquery/jquery.min.js"></script>
 
 
-<script src="/lib/justified-gallery/js/jquery.justifiedGallery.min.js"></script>
 
 <!-- clipboard -->
 
@@ -295,8 +300,6 @@
 <!-- Baidu Analytics -->
 
 <!-- Cloudflare Analytics -->
-
-  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "85b943c4b2b10256c987673df93146cf"}'></script>
 
 <!-- Umami Analytics -->
 
