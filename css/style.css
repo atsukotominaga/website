@@ -744,7 +744,7 @@ body {
   color: #d44375;
 }
 #header-post #menu {
-  visibility: hidden;
+  display: none;
   margin-right: 2rem;
 }
 #header-post #nav {
