@@ -7,6 +7,8 @@ tags: conference
 
 I am going to present results from my second experiment at [Neuromusic VII](https://www.fondazione-mariani.org/en/neuromusic7) from the 18th to the 21st of June in Aarhus, Denmark (Online presentation) 🌵
 
+Poster: [click me 😉](https://github.com/atsukotominaga/talk/blob/master/2021/Neuromusic.pdf)
+
 Accepted abstract: **"The Sound of Teaching Music: Experts’ sound modulation for novices"**
 
 ## Background
