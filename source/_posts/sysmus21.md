@@ -6,7 +6,7 @@ tags: conference
 ---
 I am going to present my latest results at [SysMus21 (Systematic Musicology)](https://sites.google.com/view/sysmus21/home) between the 3rd and the 5th of November in Aarhus, Denmark 🌵
 
-Accepted abstract (will be updated in September): **"What makes musicians infer teaching intentions"**
+Accepted abstract (will be updated in September): **"What makes musicians infer teaching intentions?"**
 
 ## Short Abstract
 We investigated which features of piano performance make musicians infer teaching intentions. Musicians listened to a number of piano recordings where a musical expressive technique of either articulation or dynamics was implemented. Musicians were asked to judge whether each performance was produced in order to teach the designated expressive technique. We quantified performances with regard to tempo, articulation and dynamics. Overall, slower tempo contributed to musicians’ teaching judgements. Moreover, performances with exaggeration for each technique (e.g., longer legato, shorter staccato, larger contrast between forte and piano) were more likely to be judged as teaching.
