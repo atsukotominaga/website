@@ -1,6 +1,6 @@
 ---
 title: Poster presentation (Japanese) - 11th STYP @ Japan (Online)
-date: 2021-01-19 22:05:37
+date: 2021-01-19
 categories: news
 tags: conference
 ---

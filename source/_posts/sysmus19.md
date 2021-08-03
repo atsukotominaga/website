@@ -1,6 +1,6 @@
 ---
 title: Poster presentation - SysMus19 @ Berlin
-date: 2019-06-09 14:27:06
+date: 2019-06-09
 categories: news
 tags: conference
 ---

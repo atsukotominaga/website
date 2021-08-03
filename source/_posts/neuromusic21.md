@@ -1,6 +1,6 @@
 ---
 title: Poster presentation - Neuromusic VII @ Aarhus (Online)
-date: 2021-04-08 17:50:37
+date: 2021-04-08
 categories: news
 tags: conference
 ---
