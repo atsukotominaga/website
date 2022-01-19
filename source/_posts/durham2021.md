@@ -5,7 +5,7 @@ categories: news
 tags:
 ---
 
-I had visited at Durham University in the UK for 2.5 months as a visiting student. I conducted interviews with music teachers and students under the supervision of Prof. Martin Clayton.
+I had visited at Durham University in the UK for 2.5 months as a visiting student. I conducted interviews with music teachers and students under the supervision of [Prof. Martin Clayton](https://www.durham.ac.uk/staff/martin-clayton/).
 
 The aim and motivation of my research at Durham University was to extend my investigation of musical skill transmission by using qualitative methods to better understand teachers’ ideas about what effective teaching is and learners’ ideas about what constitutes successful learning.
 
