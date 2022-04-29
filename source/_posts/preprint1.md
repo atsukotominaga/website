@@ -6,7 +6,7 @@ tags: publication
 ---
 ## The sound of teaching music: Expert pianists’ performance modulations for novices
 
-Our preprint is out!
+Our preprint is out! We investigated how skilled pianists modulate their playing to demonstrate to students the techniques required for conveying piece-related musical expressions, compared to performing the piece without didactic intentions
 
 [Click me 😉](https://psyarxiv.com/wzuyj/)
 
