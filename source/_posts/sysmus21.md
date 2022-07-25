@@ -1,5 +1,5 @@
 ---
-title: Poster presentation - SysMus21 @ Aarhus
+title: Poster presentation - SysMus21 @ Aarhus (Online)
 date: 2021-10-01
 categories: news
 tags: conference
