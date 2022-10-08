@@ -6,7 +6,7 @@ date: 2019-02-16 10:42:29
 [PDF 🐒](https://github.com/atsukotominaga/cv/blob/main/CV.pdf)
 
 ## RESEARCH INTEREST
-I am interested in how learning from/with others has contributed to delivering cultural knowledge and skills to younger generations. I use an experimental method adapted from Cognitive Psychology and focus on the interaction between experts and novices in musical skill acquisition. I am currently working on how expert pianists modulate their performance to teach musical expressive techniques and how such modulations could be percieved by learners. I also use qualitative methods to complement my experimental work and have an experience in conducting and analysing inteview data.
+I am interested in how learning from/with others has contributed to delivering cultural knowledge and skills to younger generations. I use an experimental method adapted from cognitive psychology and focus on the interaction between experts and novices in musical skill acquisition. I am currently working on how expert pianists modulate their performance to teach musical expressive techniques and how such modulations could be percieved by learners. I also use qualitative methods to complement my experimental work and have an experience in conducting and analysing inteview data.
 ## EDUCATION
 09/2017 – Present
 [**CENTRAL EUROPEAN UNIVERSITY, Austria/Hungary**](https://www.ceu.edu/)
