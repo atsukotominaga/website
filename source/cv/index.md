@@ -9,11 +9,11 @@ date: 2019-02-16 10:42:29
 I am interested in how learning from/with others has contributed to delivering cultural knowledge and skills to younger generations. I use an experimental method adapted from Cognitive Psychology and focus on the interaction between experts and novices in musical skill acquisition. I am currently working on how expert pianists modulate their performance to teach musical expressive techniques and how such modulations could be percieved by learners. I also use qualitative methods to complement my experimental work and have an experience in conducting and analysing inteview data.
 ## EDUCATION
 09/2017 – Present
-[**CENTRAL EUROPEAN UNIVERSITY, Hungary/Austria**](https://www.ceu.edu/)
+[**CENTRAL EUROPEAN UNIVERSITY, Austria/Hungary**](https://www.ceu.edu/)
 PhD student in Cognitive Science
 
 10/2021 – 12/2021
-[**Durham University, United Kingdom**](https://www.durham.ac.uk/homepage/)
+[**DURHAM UNIVERSITY, United Kingdom**](https://www.durham.ac.uk/homepage/)
 Visiting student in Music (Ethnomusicology)
 
 09/2016 – 08/2017
