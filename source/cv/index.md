@@ -7,6 +7,7 @@ date: 2019-02-16 10:42:29
 
 ## RESEARCH INTEREST
 I am interested in how learning from/with others has contributed to delivering cultural knowledge and skills to younger generations. I use an experimental method adapted from cognitive psychology and focus on the interaction between experts and novices in musical skill acquisition. I am currently working on how expert pianists modulate their performance to teach musical expressive techniques and how such modulations could be percieved by learners. I also use qualitative methods to complement my experimental work and have an experience in conducting and analysing inteview data.
+
 ## EDUCATION
 09/2017 – Present
 [**CENTRAL EUROPEAN UNIVERSITY, Austria/Hungary**](https://www.ceu.edu/)
@@ -23,6 +24,15 @@ Master of Research in Psychology
 04/2009 – 03/2013
 [**KYOTO UNIVERSITY, Japan**](https://www.kyoto-u.ac.jp/en/)
 Bachelor of Education (Psychology)
+
+## EXPERIENCE
+July 2014 - March 2016
+[**Keibunsha Ichijoji Bookstore, Japan**](https://www.keibunsha-books.com/)
+Bookstore Vice Manager
+
+June 2013 – June 2014
+[**Kokoro Research Center, Kyoto University, Japan**](http://kokoro.kyoto-u.ac.jp/en2/)
+Scientific Coordinator
 
 ## PUBLICATIONS
 Scott-Phillips, T., <u>Tominaga, A.</u>, & Miton, H. (2021). [Ecological and psychological factors in the cultural evolution of music.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/ecological-and-psychological-factors-in-the-cultural-evolution-of-music/63F95E8B81B9C5543D1189BD0649C894) *Behavioral and Brain Sciences, 44*.

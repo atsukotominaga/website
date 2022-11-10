@@ -22,6 +22,15 @@ title: 履歴書
 [**京都大学**](http://www.kyoto-u.ac.jp/ja)
 学士：教育学（認知心理学専攻）
 
+## 職歴
+2014年7月 - 2016年3月
+[**恵文社一乗寺店**](https://www.keibunsha-books.com/)
+副店長
+
+2013年6月 – 2014年6月
+[**京都大学こころの未来研究センター**](http://kokoro.kyoto-u.ac.jp/en2/)
+リエゾンオフィス・研究補助
+
 ## 論文
 Scott-Phillips, T., <u>Tominaga, A.</u>, & Miton, H. (2021). [Ecological and psychological factors in the cultural evolution of music.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/ecological-and-psychological-factors-in-the-cultural-evolution-of-music/63F95E8B81B9C5543D1189BD0649C894) *Behavioral and Brain Sciences, 44*.
 
