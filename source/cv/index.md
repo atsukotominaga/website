@@ -28,7 +28,7 @@ Bachelor of Education (Psychology)
 ## EXPERIENCE
 July 2014 - March 2016
 [**Keibunsha Ichijoji Bookstore, Japan**](https://www.keibunsha-books.com/)
-Bookstore Vice Manager
+Assistant Manager
 
 June 2013 – June 2014
 [**Kokoro Research Center, Kyoto University, Japan**](http://kokoro.kyoto-u.ac.jp/en2/)
