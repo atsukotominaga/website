@@ -32,6 +32,8 @@ title: 履歴書
 リエゾンオフィス・研究補助
 
 ## 論文
+<u>Tominaga, A.</u>, Knoblich, G. & Sebanz, N. (*in press*). [Expert pianists make specific exaggerations for teaching.](https://doi.org/10.1038/s41598-022-25711-3) *Scientific Reports*.
+
 Scott-Phillips, T., <u>Tominaga, A.</u>, & Miton, H. (2021). [Ecological and psychological factors in the cultural evolution of music.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/ecological-and-psychological-factors-in-the-cultural-evolution-of-music/63F95E8B81B9C5543D1189BD0649C894) *Behavioral and Brain Sciences, 44*.
 
 Ueda, Y., <u>Tominaga, A.</u>, Kajimura, S., & Nomura, M. (2016). [Spontaneous eye blinks during creative task correlate with divergent processing.](https://doi.org/10.1007/s00426-015-0665-x) *Psychological research, 80(4)*, 652-659.
