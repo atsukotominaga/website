@@ -1,43 +1,27 @@
 ---
-title: 履歴書
+title: japanese
+date: 2023-07-31 15:34:07
 ---
 
-## 研究興味
-文化伝達と社会的学習に興味を持っています。他者から／と学ぶことがどのように文化的知識や技術の伝達に役立っているのか調べています。認知心理学的な実験手法を用いて、特に音楽の技術習得における熟達者と学習者のインタラクションに着目しています。現在は熟達者（ピアニスト）が音楽の表現技法を教えるためにどのように演奏を変化させているのか、そしてそのような変化がどのように学習者に役立っているのかについて調べています。また量的手法だけでなく質的研究に関心があり、インタビュー研究の経験があります。
-
-## 学歴
-2017年9月 – 2023年6月
-[**中央ヨーロッパ大学（オーストリア／ハンガリー）**](https://www.ceu.edu/)
-博士学生：認知科学
-
-2021年10月 – 2021年12月
-[**ダラム大学（イギリス）**](https://www.durham.ac.uk/homepage/)
-短期研究滞在：音楽（民族音楽学）
-
-2016年9月 – 2017年8月
-[**ヨーク大学（イギリス）**](https://www.york.ac.uk/)
-修士：心理学
-
-2009年4月 – 2013年3月
-[**京都大学**](http://www.kyoto-u.ac.jp/ja)
-学士：教育学（認知心理学専攻）
-
-## 職歴
-2014年7月 - 2016年3月
-[**恵文社一乗寺店**](https://www.keibunsha-books.com/)
-副店長
-
-2013年6月 – 2014年6月
-[**京都大学こころの未来研究センター**](http://kokoro.kyoto-u.ac.jp/)
-リエゾンオフィス・研究補助
-
-## 論文
-<u>Tominaga, A.</u>, Knoblich, G. & Sebanz, N. (2022). [Expert pianists make specific exaggerations for teaching.](https://doi.org/10.1038/s41598-022-25711-3) *Scientific Reports*, 12, 21296.
-
-Scott-Phillips, T., <u>Tominaga, A.</u>, & Miton, H. (2021). [Ecological and psychological factors in the cultural evolution of music.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/ecological-and-psychological-factors-in-the-cultural-evolution-of-music/63F95E8B81B9C5543D1189BD0649C894) *Behavioral and Brain Sciences, 44*.
-
-Ueda, Y., <u>Tominaga, A.</u>, Kajimura, S., & Nomura, M. (2016). [Spontaneous eye blinks during creative task correlate with divergent processing.](https://doi.org/10.1007/s00426-015-0665-x) *Psychological research, 80(4)*, 652-659.
+## 私について
+2023年5月にオランダに移住しました。元認知心理学生。
+好きなもの：パン／コーヒー／植物／かぎ編み／科学／ゆるゆる
+[履歴書](https://atsukotominaga.com/cv-jp/)
 
 ## 日記・エッセイ
-- [滞洪日記](https://note.com/atsukotominaga): 博士生活の日常など
-- [ハンガリー退屈日記](https://note.com/acukor): 中央ヨーロッパや旅行の話など（[恵文社一乗寺店](http://www.keibunsha-store.com/)に寄稿）
+- [滞蘭日記](https://note.com/atsukotominaga/m/m62ba37024aef): オランダで暮らす日本人の日記（2023年8月〜）
+- [ハンガリー退屈日記](https://note.com/acukor): ヨーロッパ暮らしや旅行の話など（[恵文社一乗寺店](http://www.keibunsha-store.com/)に寄稿中）
+
+### 博士課程中の書き物
+
+#### 博士生活の日常など
+
+- [滞洪日記５](https://note.com/atsukotominaga/m/mece381c13f72): 2021年9月〜2023年7月：博士課程5年生・6年生
+- [滞洪日記４](https://note.com/atsukotominaga/m/m6aedade4e805): 2020年9月〜2021年8月：博士課程4年生
+- [滞洪日記３](https://note.com/atsukotominaga/m/m08f11a2944df): 2019年9月〜2020年8月：博士課程3年生
+- [滞洪日記２](https://note.com/atsukotominaga/m/mf3f0f44acb81): 2018年9月〜2019年8月：博士課程2年生
+- [滞洪日記１](https://note.com/atsukotominaga/m/md9321a115574): 2018年4月〜2018年8月：博士課程1年生
+
+#### 研究周りのことなど
+
+- [バーチャル研究室](https://note.com/atsukotominaga/m/m57ca963efef9): まともな研究者になるための思考練習
