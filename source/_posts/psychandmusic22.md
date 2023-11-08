@@ -6,6 +6,8 @@ tags: conference
 ---
 I am going to present my latest results at [Psychology & Music](https://psychologyandmusicconference.wordpress.com/home/) between the 26th and the 29th of October in Belgrade, Serbia 🌵
 
+Poster: [click me 😉](https://github.com/atsukotominaga/talk/blob/master/2022/PsychologyMusic.pdf)
+
 Accepted abstract: **"What makes musicians infer teaching intentions?"**
 
 ## Background

@@ -6,6 +6,8 @@ tags: conference
 ---
 I am going to present my latest results at [Musical Togetherness Symposium](https://mdw.ac.at/togetherness/mt-symposium/) between the 13th and the 15th of July in Vienna, Austria 🌵
 
+Talk: [click me 😉](https://github.com/atsukotominaga/talk/blob/master/2022/Togetherness.pdf)
+
 Accepted abstract: **"What makes listeners infer teaching intentions?"**
 
 ## Background

@@ -6,7 +6,7 @@ tags: conference
 ---
 I am going to present my latest results at [SysMus21 (Systematic Musicology)](https://sites.google.com/view/sysmus21/home) between the 3rd and the 5th of November in Aarhus, Denmark 🌵
 
-Poster: [click me 😉](https://github.com/atsukotominaga/talk/blob/master/2021/Sysmus.pdf)
+Poster: [click me 😉](https://github.com/atsukotominaga/talk/blob/master/2021/SysMus.pdf)
 
 Accepted abstract (updated: 04/10/2021): **"What makes listeners infer teaching intentions?"**
 
