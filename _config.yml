@@ -13,7 +13,7 @@ timezone: Europe/Berlin
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://atsukotominaga/website
+url: https://atsukotominaga.github.io/website
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
