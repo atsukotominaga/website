@@ -572,7 +572,7 @@ body {
   }
 }
 .max-width {
-  max-width: 48rem;
+  max-width: 52rem;
 }
 @media (max-width: 480px) {
   .px3 {
@@ -615,10 +615,10 @@ body {
   display: inline-block;
   float: left;
   margin-right: 20px;
-  width: 50px;
-  height: 50px;
+  width: 54px;
+  height: 54px;
   border-radius: 5px;
-  background-size: 50px 50px;
+  background-size: 54px 54px;
   background-repeat: no-repeat;
   filter: grayscale(100%);
   -webkit-filter: grayscale(100%);
@@ -671,7 +671,7 @@ body {
   #header #title {
     display: table;
     margin-right: 5rem;
-    min-height: 50px;
+    min-height: 54px;
   }
   #header #title h1 {
     display: table-cell;
@@ -701,7 +701,7 @@ body {
   }
   #header #nav li:not(:first-child) {
     padding-top: 1rem;
-    padding-left: 70px;
+    padding-left: 74px;
     font-size: 1rem;
   }
 }
