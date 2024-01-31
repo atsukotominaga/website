@@ -7,7 +7,7 @@ date: 2023-07-31 15:34:07
 好きなもの：パン／コーヒー／植物／かぎ編み／科学／ゆるゆる
 
 ## 日記・エッセイ
-- [滞蘭日記](https://note.com/atsukotominaga/m/m62ba37024aef): オランダで暮らす日本人の日記（2023年8月〜）
+- [オランダ雑記](https://note.com/atsukotominaga/m/m62ba37024aef): オランダで暮らす日本人の雑記（2023年8月〜）
 - [ハンガリー退屈日記](https://note.com/acukor): ヨーロッパ暮らしや旅行の話など（[恵文社一乗寺店](http://www.keibunsha-store.com/)に寄稿中）
 
 ## 博士課程中の書き物
