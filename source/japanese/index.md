@@ -3,14 +3,13 @@ title: Atsuko Tominaga
 date: 2023-07-31 15:34:07
 ---
 
-オランダに住んでいます。元心理学徒。
-好きなもの：パン／コーヒー／植物／かぎ編み／科学／ゆるゆる
+オランダに住んでいる日本人です。
+好きなもの：パン／コーヒー／かぎ編み／植物／科学／ゆるゆる
 
-## 日記・エッセイ
-- [オランダ雑記](https://note.com/atsukotominaga/m/m62ba37024aef): オランダで暮らす日本人の雑記（2023年8月〜）
+## 書き物
 - [ハンガリー退屈日記](https://note.com/acukor): ヨーロッパ暮らしや旅行の話など（[恵文社一乗寺店](http://www.keibunsha-store.com/)に寄稿中）
 
-## 博士課程中の書き物
+## 博士課程中の日記など
 
 - [滞洪日記５](https://note.com/atsukotominaga/m/mece381c13f72): 2021年9月〜2023年7月：博士課程5年生・6年生
 - [滞洪日記４](https://note.com/atsukotominaga/m/m6aedade4e805): 2020年9月〜2021年8月：博士課程4年生
