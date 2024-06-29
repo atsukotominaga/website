@@ -19,7 +19,7 @@ As a next step, I have to pass a B1 language exam to keep my residence permit. A
 
 ![](/uploads/tofu.jpg)
 
-The big news for me was that my partner and I adopted a kitten from our neighbour. She's called Tofu and has been here with us for about 1 month now. If you are interested in Tofu, please read [my blog](https://brotperson.nl/2024/06/22/220624/) too.
+The big news for me was that my partner and I adopted a kitten from our neighbour. She's called Tofu and has been here with us for about 1 month now. If you are interested in Tofu, please read [my blog](https://atsukotominaga.com/2024/06/22/220624) too.
 
 ## Some travel plans
 
