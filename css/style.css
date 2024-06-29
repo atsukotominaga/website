@@ -620,6 +620,8 @@ body {
   border-radius: 5px;
   background-size: 50px 50px;
   background-repeat: no-repeat;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
 }
 #header #nav {
   color: #cc2a41;
@@ -660,6 +662,10 @@ body {
 }
 #header #nav ul li:last-child a {
   margin-right: 0;
+}
+#header:hover #logo {
+  filter: none;
+  -webkit-filter: none;
 }
 @media screen and (max-width: 480px) {
   #header #title {
