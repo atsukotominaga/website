@@ -20,7 +20,7 @@
     "react-scripts": "^5.0.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
+    "eslint": "^9.15.0",
     "gh-pages": "^5.0.0"
   }
 }
