@@ -25,6 +25,6 @@ Our cat Tofu is now one year old. Fortunately, she has had no health issues. I a
 
 ## Some travel plans
 
-Last year, we went to the UK (Wales) and Japan. I wrote about my trip to Kochi [here](https://atsukotominaga.com/2025/04/08/080425/).
+Last year, we went to the UK (Wales) and Japan. I wrote about my trip to Kochi [here](https://atsukotominaga.com/2025/04/08/writing/080425/).
 
-This year, we are going to Austria for our summer vacation (actually, in a few days). This time, we will visit Switzerland on the way back from Austria to the Netherlands and meet our friend in Wallis. We also hope to visit Japan again at some point next year. Probably around September. We may skip bigger cities like Tokyo and Osaka and are planning to visit new places such as Hiroshima. Need to save up money 💸
+This year, we are going to Austria for our summer vacation (actually, in a few days). This time, we will visit Switzerland on the way back from Austria to the Netherlands and meet our friend in Wallis. We also hope to visit Japan again at some point next year. Probably around September. We may skip bigger cities like Tokyo and Osaka and are planning to visit new places like Hiroshima. Anyway, I need to save up money 💸
