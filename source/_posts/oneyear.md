@@ -1,6 +1,6 @@
 ---
 title: One year in Nederland
-date: 2024-06-22 20:36:08
+date: 2024-06-22
 categories: news
 tags:
 ---
